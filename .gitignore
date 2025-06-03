@@ -3,8 +3,6 @@
 **/*.py[cod]
 **/*.sqlite3
 **/.env
-**/docker-compose.override.yml
-**/docker-compose.*.yml
 
 # Django migrations - istersen takip et, istersen ignore et:
 # */migrations/*.py
